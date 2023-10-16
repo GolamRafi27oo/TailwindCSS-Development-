@@ -811,10 +811,6 @@ video {
   display: none;
 }
 
-.h-\[100vh\] {
-  height: 100vh;
-}
-
 .h-\[10vh\] {
   height: 10vh;
 }
@@ -827,8 +823,8 @@ video {
   height: 45vh;
 }
 
-.h-\[60vh\] {
-  height: 60vh;
+.h-auto {
+  height: auto;
 }
 
 .w-64 {
@@ -1827,24 +1823,8 @@ video {
   background-color: rgb(255 0 0 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/image\/Group4\.png\'\)\] {
-  background-image: url('../image/Group4.png');
-}
-
 .bg-\[url\(\'\.\.\/image\/designer_1\.png\'\)\] {
   background-image: url('../image/designer_1.png');
-}
-
-.bg-\[url\(\'\.\.\/image\/group3\.png\'\)\] {
-  background-image: url('../image/group3.png');
-}
-
-.bg-\[url\(\'\/image\/group\.png\'\)\] {
-  background-image: url('/image/group.png');
-}
-
-.bg-\[url\(\'\/image\/group2\.png\'\)\] {
-  background-image: url('/image/group2.png');
 }
 
 .decoration-slice {
