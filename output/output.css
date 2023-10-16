@@ -1847,6 +1847,22 @@ video {
   background-image: url('../image/group3.png');
 }
 
+.bg-\[url\(\'image\/Group4\.png\'\)\] {
+  background-image: url('image/Group4.png');
+}
+
+.bg-\[url\(\'image\/group3\.png\'\)\] {
+  background-image: url('image/group3.png');
+}
+
+.bg-\[url\(\'image\/group2\.png\'\)\] {
+  background-image: url('image/group2.png');
+}
+
+.bg-\[url\(\'image\/group\.png\'\)\] {
+  background-image: url('image/group.png');
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
